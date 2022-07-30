@@ -47,3 +47,42 @@
     border: none;
     border-radius: 32px;
 }
+
+@media (max-width: 760px){
+    .recording-screen{
+        height: 70%;
+        width: 90%;
+        background-color: #21455E;
+        position: absolute;
+        top: 15%;
+        left: 5%;
+        border-radius: 8px;
+    }
+    .recording-screen-text-container{
+        margin-top: -25px;
+        margin-left: 10px;
+    
+    }
+    .recording-page-button{
+        position: absolute;
+        margin-top: 420px;
+        margin-left: 35%;
+    }
+}
+
+@media screen and (min-width: 770px) and (max-width: 1080px) {
+    .recording-screen{
+        height: 55%;
+        width: 90%;
+        background-color: #21455E;
+        position: absolute;
+        top: 30%;
+        left: 5%;
+        border-radius: 8px;
+    }
+    .recording-page-button{
+        position: absolute;
+        margin-top: 330px;
+        margin-left: 35%;
+    }
+}

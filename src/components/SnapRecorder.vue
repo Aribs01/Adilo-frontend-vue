@@ -6,10 +6,10 @@
 	</div>
 	<div class="recording-header-buttons">
 	
-		<Button @click="openModal" icon="pi pi-cloud-upload" label="Start Recording" class="p-button-rounded p-button-danger start-recording-button" />
-		<Button @click="openModal" icon="pi pi-video" label="New Request" class="p-button-rounded new-request-button" />
-        <Button type="button" icon="pi pi-filter" label="Add filter" class="p-button-outlined add-filter-button" />
-        <Button type="button" icon="pi pi-sort-alt" label="By Date" class="p-button-outlined by-date-button" />
+		<Button @click="openModal" icon="pi pi-cloud-upload" label="Start Recording" class="p-button-rounded p-button-danger start-recording-button mobile" />
+		<Button @click="openModal" icon="pi pi-video" label="New Request" class="p-button-rounded new-request-button mobile" />
+        <Button type="button" icon="pi pi-filter" label="Add filter" class="p-button-outlined add-filter-button mobile" />
+        <Button type="button" icon="pi pi-sort-alt" label="By Date" class="p-button-outlined by-date-button mobile" />
 
 	</div>
 

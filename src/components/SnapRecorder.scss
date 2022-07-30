@@ -54,3 +54,16 @@
 .record-button:active{
     border: 2px solid #000;
 }
+@media (max-width: 760px){
+    .recording-header-buttons{
+        width: 100%;
+        display: inline;
+        height: 100px;
+        margin-top: 10px;
+    }
+    .mobile{
+        width: 40%;
+        height: 40px;
+        margin-top: 10px;
+    }
+}
