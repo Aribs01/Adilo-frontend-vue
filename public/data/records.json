@@ -1,0 +1,36 @@
+{
+	"data": [
+		{
+			"id": 1,
+            "video": "1.png",
+			"title": "Getting it right the first time",
+			"views": "324",
+			"size": "923 KB",
+			"modified": "3 months ago"   
+		},
+        {
+			"id": 1,
+            "video": "2.png",
+			"title": "Getting it right the first time",
+			"views": "324",
+			"size": "923 KB",
+			"modified": "3 months ago"   
+		},
+        {
+			"id": 1,
+            "video": "1.png",
+			"title": "Getting it right the first time",
+			"views": "324",
+			"size": "923 KB",
+			"modified": "3 months ago"   
+		},
+        {
+			"id": 1,
+            "video": "2.png",
+			"title": "Getting it right the first time",
+			"views": "324",
+			"size": "923 KB",
+			"modified": "3 months ago"   
+		}
+	]
+}

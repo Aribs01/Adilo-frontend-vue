@@ -1,0 +1,49 @@
+.recording-page{
+    background: transparent linear-gradient(117deg, #74c5db 0%, #EAFAFF 0%, #D3F5FE 100%) 0% 0% no-repeat padding-box !important;
+}
+.recording-screen{
+    height: 400px;
+    width: 700px;
+    background-color: #21455E;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    border-radius: 8px;
+}
+.recording-screen-text-container{
+    margin-top: -25px;
+    margin-left: 10px;
+
+}
+.recording-sign{
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: 1px solid #EE5951;
+    float: left;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.recording-sign-inner{
+    height: 10px;
+    width: 10px;
+    background-color: #EE5951;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.4px;
+    
+}
+.recording-page-button{
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 270px;
+}
+.actual-button{
+    width: 170px;
+    background-color: #42bcdd;
+    height: 40px;
+    color: #fff;
+    border: none;
+    border-radius: 32px;
+}

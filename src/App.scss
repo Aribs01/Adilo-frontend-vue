@@ -1,0 +1,93 @@
+.nav-header{
+    text-align: left;
+    width: 250px;
+    margin-top: 15px;
+}
+.testing{
+    margin-top: 10px;
+}
+.testing:hover{
+    color: #000;
+}
+.ggg:hover{
+    background-color: grey;
+    color: #000;
+}
+.header-text{
+    color: #21455E;
+    font: normal normal bold 28px/32px Helvetica;
+    margin-top: 7px;
+    position: absolute;
+    text-decoration: none !important;
+    margin-left: 10px;
+}
+.logo-img{
+    background-color: #FBBD71;
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+.logo-img-inner{
+    width: 15px;
+    height: 15px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 7px;
+    border-radius: 100%;
+}
+.help-button-container{
+    margin-left: -90px;
+    cursor: pointer;
+    float: left;
+    margin-top: 7px;
+    border-right: 1px solid #707070;
+    width: 80px;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+}
+.help-button-text{
+    text-decoration: none !important;
+    color: #707070;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.help-button-container:hover{
+    background-color: #707070;
+    color: #fff !important;
+}
+.ppp:hover{
+    color: #fff;
+}
+.header-user-img{
+    margin-top: 5px;
+}
+.header-user-name{
+    margin-top: -40px;
+}
+.header-name-container{
+    margin-right: 50px;
+}
+
+
+
+@media (max-width: 991px){
+    .barrs{
+        right: 0;
+        top: 0;
+        position: absolute;
+        background-color: grey;
+    }
+    .help-button-text{
+        text-decoration: none !important;
+        color: #707070;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+}

@@ -1,0 +1,56 @@
+.all-header{
+    margin-top: 30px;
+}
+.recordings-header-container{
+    float: left;
+    margin-left: 30px;
+}
+.recording-header-buttons{
+    width: 850px;
+    height: 50px;
+    margin-top: -10px;
+}
+.start-recording-button{
+    float: right;
+    margin-right: 40px;
+}
+.new-request-button{
+    float: right;
+    margin-right: 20px;
+}
+.add-filter-button{
+    float: right;
+    margin-right: 20px;
+}
+.by-date-button{
+    float: right;
+    margin-right: 20px;
+}
+.table-image{
+    border-radius: 5px;
+}
+.record-screen-switch{
+    float: right;
+}
+.record-screen-switch-container{
+    margin-top: 40px;
+}
+.record-button{
+    background-color: #0DABD8;
+    color: #fff;
+    border: none;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    border-radius: 28px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.record-button:hover{
+    transform: translateY(-2px);
+}
+.record-button:active{
+    border: 2px solid #000;
+}
