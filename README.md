@@ -1,5 +1,7 @@
 # adilo-task
 
+## Kindly follow the below instruction to get up and running
+
 ## Project setup
 ```
 npm install
